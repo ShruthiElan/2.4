@@ -1,0 +1,7 @@
+IMPORTANCE OF NAMENODE
+Namenode acts like the master of the hadoop cluster.
+It controls all the activites of the data nodes.
+It assigns specific instructions to the data node.
+If the name node fails the entire cluster fails.
+There is no backup for the name node.
+It performs in memory mapping of the data nodes.
